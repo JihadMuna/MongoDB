@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "659470a9970048f3299b00d9"
+  },
+  "name": "Restaurant1",
+  "adrees": {
+    "city": "City1",
+    "coordinates": [
+      "-77.564",
+      "40.677"
+    ],
+    "street": "Street1"
+  },
+  "cuisune": "Cuisine1",
+  "isKosherHalal": "true",
+  "reviews": [
+    {
+      "date": "new Date(\"2023-01-01\", score:4)"
+    },
+    {
+      "date": "new Date(\"2023-02-15\", score:5"
+    },
+    {
+      "date": "new Date(\"2023-03-20\", score:3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6594759ce5dc7774ac2ff73e"
+  },
+  "name": "Restaurant2"
+},
+{
+  "_id": {
+    "$oid": "6594759ce5dc7774ac2ff73f"
+  },
+  "name": "Restaurant3"
+},
+{
+  "_id": {
+    "$oid": "6594759ce5dc7774ac2ff740"
+  },
+  "name": "Restaurant4"
+},
+{
+  "_id": {
+    "$oid": "6594759ce5dc7774ac2ff741"
+  },
+  "name": "Restaurant5"
+}]
